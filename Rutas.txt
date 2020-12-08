@@ -1,0 +1,4 @@
+0;Garaje;Guardado;0.0;0
+1;Girardot;Tocaima;5500.0;75
+1;cucuta;medellin;200000.0;40
+3;cali;patio;323232.0;33

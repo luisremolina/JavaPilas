@@ -1,0 +1,2 @@
+1;Administrador1;Generico1;1234567;admon123;admon123;true
+2;Vendedor1;Generico1;12345;vende1;vende1;false
